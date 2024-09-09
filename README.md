@@ -95,4 +95,5 @@ This project represents a music store database using SQL, as shown by the provid
 
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![image](https://github.com/user-attachments/assets/8a8cf9f2-b7fe-4607-9784-34793c38b464)
+
