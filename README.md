@@ -96,6 +96,4 @@ This project represents a music store database using SQL, as shown by the provid
 - **Support for Music Playlists**: Users can create playlists containing multiple tracks.
 - **Invoice System**: The invoicing system tracks each customer’s purchases, linking them to specific tracks.
 
----
 
-Feel free to adjust or expand this README based on any additional features or custom queries you implement.
