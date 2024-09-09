@@ -1,6 +1,3 @@
-Here’s a README draft based on your ER diagram for a music store database system:
-
----
 
 # Music Store SQL Database
 
@@ -97,3 +94,5 @@ This project represents a music store database using SQL, as shown by the provid
 - **Invoice System**: The invoicing system tracks each customer’s purchases, linking them to specific tracks.
 
 
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
